@@ -276,6 +276,8 @@ main {
   text-align: center;
   padding: 20px;
   background-color: #fff;
+  background-image: url(../assets/bg.png);
+  
 }
 
 main h1 {
@@ -292,6 +294,7 @@ main h1 {
   gap: 20px;
   padding: 20px;
   font-family: "Quicksand", serif;
+ 
 }
 
 .left-box {
@@ -385,7 +388,7 @@ p {
 }
 
 .load-more:hover {
-  background-color: #0056b3;
+  background-color: #e1e3e6;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 .story-1{
